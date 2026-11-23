@@ -66,8 +66,6 @@ scripts/codespaces-setup.sh
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | How everything works (start here to prepare for the interview) |
 | [INTEGRATIONS.md](./INTEGRATIONS.md) | Which DeepSpace features are used, where, and how they were verified |
 | [TESTING.md](./TESTING.md) | What was tested, what was not, and your manual checklist |
-| [LIVE_CODING_PREPARATION.md](./LIVE_CODING_PREPARATION.md) | Likely interview questions, answers, practice changes |
-| [SUBMISSION_WRITEUP.md](./SUBMISSION_WRITEUP.md) | Draft for the DeepSpace portal |
 
 ## Licence and credentials
 
