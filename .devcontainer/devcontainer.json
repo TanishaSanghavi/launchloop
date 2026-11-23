@@ -1,0 +1,12 @@
+{
+  "name": "LaunchLoop (DeepSpace)",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "postCreateCommand": "bash scripts/codespaces-setup.sh",
+  "forwardPorts": [5173],
+  "portsAttributes": {
+    "5173": { "label": "LaunchLoop dev server", "onAutoForward": "openBrowser" }
+  },
+  "customizations": {
+    "vscode": { "extensions": ["bradlc.vscode-tailwindcss", "dbaeumer.vscode-eslint"] }
+  }
+}

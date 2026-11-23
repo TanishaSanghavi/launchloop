@@ -1,0 +1,8 @@
+/*
+ * Theme overrides — applied via <html data-theme="<id>">.
+ *
+ * LaunchLoop ships ONE theme, "launchloop", whose tokens live in the @theme
+ * block of styles.css (deep navy surfaces, indigo accent). Add a
+ * `[data-theme="my-id"] { ... }` block here only if you want a second theme,
+ * then register it in src/themes.ts and the first-paint style in index.html.
+ */
