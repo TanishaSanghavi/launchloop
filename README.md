@@ -6,7 +6,7 @@ LaunchLoop is a small collaborative SaaS for people building side projects. You 
 
 It is built on the [DeepSpace SDK](https://docs.deep.space): React 19 + Vite + Tailwind v4 on the front, a Hono worker with Durable Objects on the back, deployed to `<your-app>.app.space`.
 
-> **Status.** The code type-checks, lints, builds, and passes its unit tests and a scripted UI test run. It has **not** been run against a live DeepSpace backend by its author (that needs your DeepSpace account). Read [TESTING.md](./TESTING.md) for exactly what was and was not verified, and do the manual checklist there before you submit.
+> **Status.** Deployed at https://launchloop-tanisha.app.space. Most of the code was written by an AI agent that could not sign in to DeepSpace, so read [TESTING.md](./TESTING.md) for exactly what was and was not verified.
 
 ## What it does
 
@@ -63,7 +63,7 @@ scripts/codespaces-setup.sh
 |---|---|
 | [CODESPACES_SETUP.md](./CODESPACES_SETUP.md) | Getting from ZIP to a running Codespace |
 | [DEPLOYMENT.md](./DEPLOYMENT.md) | Registering, deploying, billing, rollback, troubleshooting |
-| [ARCHITECTURE.md](./ARCHITECTURE.md) | How everything works (start here to prepare for the interview) |
+| [ARCHITECTURE.md](./ARCHITECTURE.md) | How everything works |
 | [INTEGRATIONS.md](./INTEGRATIONS.md) | Which DeepSpace features are used, where, and how they were verified |
 | [TESTING.md](./TESTING.md) | What was tested, what was not, and your manual checklist |
 

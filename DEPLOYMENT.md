@@ -1,6 +1,6 @@
 # Deployment
 
-I have **no DeepSpace deployment tool and no account access**, so nothing here has been deployed by me, and I cannot give you a live URL. These steps follow the DeepSpace docs and the CLI's `--help`.
+These steps follow the DeepSpace docs and the CLI `--help`. The agent that wrote them could not deploy; the app has since been deployed to https://launchloop-tanisha.app.space.
 
 ## Before you deploy
 
